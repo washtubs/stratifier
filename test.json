@@ -1,0 +1,6 @@
+{
+    "mid1": ["bot1", "bot2"],
+    "mid3": [ "bot3" ],
+    "bot2": [ "bedrock1", "bedrock2" ],
+    "top": ["mid1", "mid2", "mid3"]
+}
